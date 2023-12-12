@@ -135,6 +135,10 @@
     <ClInclude Include="Addition.h" />
     <ClInclude Include="BMP.h" />
     <ClInclude Include="BMPFile.h" />
+    <ClInclude Include="myBMP.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="color_maps.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
